@@ -7,7 +7,7 @@ Försäljningsprocessen består av en serie dokument. Genom att granska dokument
 
 Inköpsprocessen är bara en försäljningsprocess sett från motsatt synvinkel.
 
-#### I fall av konsumentprodukter finns inte dessa dokument, men t.ex. ett pris i en katalog eller på en hylla kan toilkas som en offert, och ett kvitto kan tolkas som ett goods receipt (inte kanske lagligt, men som koncept)
+#### I fall av konsumentprodukter finns inte dessa dokument, men t.ex. ett pris i en katalog eller på en hylla kan toilkas som en offert, och ett kvitto kan tolkas som ett goods receipt (inte kanske nödvändigtvis rättsligt, men åtminstone konceptuellt)
 
 ## RFP (Förfrågan om lösningsförslag) & RFQ (Offertförfrågan)
 
