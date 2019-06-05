@@ -12,15 +12,18 @@ Båda behandlar människor som resurser (låter brutalt, kan också vara det), a
 HRIS är ett allmänt system för att hantera data för anställningsbehov. D.v.s. HRIS är systemet var man samlar data för rekrytering, men också data under en anställds tid hos företaget. Datan kan användas som basis för löneräkning och också för att följa upp produktivitet och annan statistik på arbetsplatsen.
 
 Data i HRIS:
-
- - data om anställda (kontaktuppgifter)
- - data om möjliga anställda och gamla anställda
- - data om arbetstid
- - data om löner
- - data om kunnande hos olika anställda
- - data om avdelningar
- - data om var anställda jobbar vid vilken tidpunkt, data om avdelingarnas struktur (vem e chef för vem)
- - statistik om t.ex. hur länge anställninsgörhållanden räcker
+ - datan kan beröra
+   - anställda
+   - möjliga framtida anställda
+   - gamla anställda
+ - datan innehåller
+   - arbetstid
+   - löner
+   - kunnande hos olika anställda
+   - avdelningar
+     - var anställda jobbar vid vilken tidpunkt
+     - avdelingarnas struktur (vem är chef för vem)
+ - det förs statistik om datan, t.ex. hur länge anställninsgörhållanden räcker i snitt
  
 
 ## Project Management
