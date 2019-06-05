@@ -13,7 +13,7 @@ Inköpsprocessen är bara en försäljningsprocess sett från motsatt synvinkel.
 
 RFP (Request For Proposal) och RFQ (Request For Quotation) är förfrågningar som en kund skickar till en leverantör för att fråga om ett förslag till lösning (RFP) eller priset för en produkt (RFQ).
 
-RFP används ifall av projekt, eller andra skräddarsydda projekt, medan en RFQ skickas om det är frågan om en produkt eller tjänst som redan finns, som leverantören genast kan ge ett pris, eller prisestimat på.
+RFP används ifall av projekt, eller andra skräddarsydda lösningar, medan en RFQ skickas om det är frågan om en produkt eller tjänst som redan finns, som leverantören genast kan ge ett pris, eller prisestimat på.
 
 ## Solution Proposal (Lösningsförslag) & Quotation (Offert)
 
