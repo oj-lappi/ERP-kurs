@@ -5,7 +5,7 @@ Det finns två viktiga resursplaneringssystem som behandlar mänskor som resurse
  - HRIS(Human Resource Information System), allmänna HR-system
  - Projekthanterings (Project management) - system, system för hantering av projekt, var mänskliga kunskapsresurser är kritiska
  
-Båda har samma koncept som en människa som resurs, alltså persontid (persontimmar,persondagar). 
+Båda behandlar människor som resurser (låter brutalt, kan också vara det), alltså persontid (persontimmar,persondagar). 
  
 ## HRIS
 
