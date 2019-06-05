@@ -33,7 +33,7 @@ Leverantören kvitterar när varan far iväg från eget lager. Om varan under et
 
 ## Goods Receipt (Kvittering av emottagen leverans)
 
-Kunden kvitterar när varan tas emot. Om varan under etappen till sitt mål stannar nånstans på vägen och görs även då en goods receipt.
+Kunden kvitterar när varan tas emot. Om varan under etappen till sitt mål stannar nånstans på vägen och görs även då en goods receipt (därefter goods issue när varan far vidare).
 
 ## Invoice (Faktura)
 
