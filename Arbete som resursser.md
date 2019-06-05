@@ -33,10 +33,10 @@ Projekthanteringssystem används för att planera och följa upp projekt. Ifall 
 Projekthanteringssystem innehåller följande data:
 
  - WBS (Work Breakdown Structure) en uppdelning av arbetet i olika delar, som kan följas upp skiljt
-  - innehåller ofta kosntadsestimat (tidsestimat)
-  - kan delas upp i delar av delar, i en hierarki
+   - innehåller ofta kostnadsestimat (tidsestimat + materialkostnadsestimat)
+   - kan delas upp i delar av delar, i en hierarki
  - Budget, en sammanställd budget, som kan göras på olika WBS-nivåer
  - Milstolpeplan, en tidtabell med deadlines för att kunna hålla koll på ifall projektet framskrider i rätt takt eller inte
-  - Använder sig av tidsestimat i WBS-datan
+   - Använder sig av samma tidsestimat som WBS
  
 Vi kan t.ex. kolla på uppgifter i ett WBS för att se om estimat håller eller inte. Vi kan också se när vi kommit till en deadline ifall projektet framskrider enligt tidtabell och justera planen eller införa andra åtgärder vid behov.
