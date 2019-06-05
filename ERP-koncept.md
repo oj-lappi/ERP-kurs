@@ -1,22 +1,22 @@
-Resursser forts.
+Resurser forts.
 
-Vi har gått genom resursser på förra timmen. Minns ni vilka vi har definierat?
+Vi har gått genom resurser på förra timmen. Minns ni vilka vi har definierat?
 
-Och minns ni varför vi talar om resursser på den här kurssen om affärssystem.
+Och minns ni varför vi talar om resurser på den här kurssen om affärssystem.
 
-Ett affärssystem används för att planera användningen av ett företags resursser.
+Ett affärssystem används för att planera användningen av ett företags resurser.
 
-Så vi ska nu gå genom vad man kallar hanteringen av dessa resursser.
+Så vi ska nu gå genom vad man kallar hanteringen av dessa resurser.
 
 
 Kontakter
 ========
-Kontakter kan tänkas vara intellektuella resursser, och kan delas upp i personer/företag du säljer till och personer/företag du köper från.
+Kontakter kan tänkas vara intellektuella resurser, och kan delas upp i personer/företag du säljer till och personer/företag du köper från.
 
 De du säljer till kallas kunder eller klienter.
 De du köper från kallas underleverantörer.
 
-"Planering" av dessa resursser går ut på hur man hanterar företagets förhållande till dessa personer/företag:
+"Planering" av dessa resurser går ut på hur man hanterar företagets förhållande till dessa personer/företag:
 
  - Hantering av förhållande till klienter/kunder: 		CRM (Customer Relations Management)
  - Hantering av förhållande till underleverantörer:		SRM (Supplier Relations managements)
