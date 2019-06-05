@@ -1,9 +1,9 @@
 
-# Mänskor som resursser i ett företag
+# Mänskor som resurser i ett företag
 
-Det finns två viktiga resursplaneringssystem som behandlar mänskor som resursser i ett företag.
+Det finns två viktiga resursplaneringssystem som behandlar mänskor som resurser i ett företag.
  - HRIS(Human Resource Information System), allmänna HR-system
- - Projekthanterings (Project management) - system, system för hantering av projekt, var mänskliga kunskapsresursser är kritiska
+ - Projekthanterings (Project management) - system, system för hantering av projekt, var mänskliga kunskapsresurser är kritiska
  
 Båda har samma koncept som en människa som resurs, alltså persontid (persontimmar,persondagar). 
  
